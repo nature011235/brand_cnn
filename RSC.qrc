@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="IMG">
+    <file>img/720s.jpg</file>
+    <file>img/ferrari-f8-tributo-fd-16.jpg</file>
+    <file>img/Forza.jpg</file>
+  </qresource>
+</RCC>
